@@ -1,8 +1,19 @@
 <resources>
     <string name="app_name">DemoProyecto</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_splash">Splash</string>
-    <string name="txt_splash">Desarrolo a tu medida.</string>
+    <string name="txt_splash">Desarrollamos tu Software.</string>
+    <string name="correoProgramador">eduardo_huertacruz@hotmail.com</string>
+    <string name="txtHeader">Desarrollador Android</string>
+    <string name="titleReporte">Reportes</string>
+    <string name="txtCrear">Crear</string>
+    <string name="txtConsultar">Consultar</string>
+    <string name="txtCrearReporte">Crear Reporte</string>
+    <string name="txtEmpresa">Empresa</string>
+    <string name="txtNombreCliente">Cliente</string>
+    <string name="txtCorreo">Correo</string>
+    <string name="txtTelefono">Telefono</string>
+    <string name="txtFechaActual">Fecha</string>
+    <string name="txtGuardar">Guardar</string>
 </resources>
